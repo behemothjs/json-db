@@ -1,0 +1,11 @@
+{
+  "name": "@behemothjs/json-db-api",
+  "version": "0.0.1",
+  "description": "Static JSON Document Database API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
